@@ -1,0 +1,40 @@
+# Core Framework
+fastapi==0.104.1
+uvicorn==0.24.0
+python-dotenv==1.0.0
+
+# Database
+psycopg2-binary==2.9.9
+SQLAlchemy==2.0.23
+alembic==1.13.0
+
+# Caching
+redis==5.0.1
+
+# Authentication & Security
+python-jose==3.3.0
+passlib==1.7.4
+pycryptodome==3.19.0
+PyJWT==2.8.1
+
+# HTTP & External APIs
+requests==2.31.0
+httpx==0.25.2
+
+# Data Validation
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+
+# Logging
+loguru==0.7.2
+
+# Payment Processing
+stripe==7.4.0
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
