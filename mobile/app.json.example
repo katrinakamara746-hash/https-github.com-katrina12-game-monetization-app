@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Game Monetization",
+    "slug": "game-monetization",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTabletMode": true,
+      "bundleIdentifier": "com.gamemonetization.app",
+      "infoPlist": {
+        "UIDeviceFamily": [1, 2]
+      }
+    },
+    "android": {
+      "package": "com.gamemonetization.app",
+      "versionCode": 1
+    },
+    "plugins": [
+      [
+        "expo-stripe-sdk",
+        {
+          "merchantIdentifier": "merchant.com.gamemonetization"
+        }
+      ]
+    ]
+  }
+}

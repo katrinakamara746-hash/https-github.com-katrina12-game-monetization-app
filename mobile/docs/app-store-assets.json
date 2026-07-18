@@ -1,0 +1,44 @@
+{
+  "name": "Game Monetization",
+  "description": "Manage your game monetization strategies and analytics on the go",
+  "screenshots": [
+    {
+      "platform": "ios",
+      "filename": "screenshot_1_ios.png",
+      "alt_text": "Dashboard showing revenue and transaction stats"
+    },
+    {
+      "platform": "ios",
+      "filename": "screenshot_2_ios.png",
+      "alt_text": "Products management interface"
+    },
+    {
+      "platform": "ios",
+      "filename": "screenshot_3_ios.png",
+      "alt_text": "Analytics dashboard with charts"
+    },
+    {
+      "platform": "android",
+      "filename": "screenshot_1_android.png",
+      "alt_text": "Dashboard showing revenue and transaction stats"
+    },
+    {
+      "platform": "android",
+      "filename": "screenshot_2_android.png",
+      "alt_text": "Products management interface"
+    },
+    {
+      "platform": "android",
+      "filename": "screenshot_3_android.png",
+      "alt_text": "Analytics dashboard with charts"
+    }
+  ],
+  "keywords": [
+    "game monetization",
+    "revenue tracking",
+    "in-app purchases",
+    "analytics",
+    "subscription management",
+    "game developer"
+  ]
+}
